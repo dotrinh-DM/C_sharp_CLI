@@ -1,3 +1,12 @@
+# OVERVIEW
+Tạo 1 solution chứa 2 projects:
+- 1 là WPF App (.NET Framework) sử dụng C#
+- 2 là CLR Class Library (.NET Framework) sử dụng C++
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/8064517/211952255-d4b985d8-097a-4254-a885-40e4a99b5c96.png" />
+</p>
+
 # RUN
 C_sharp_CLI\CLICode\CLICode.sln
 
